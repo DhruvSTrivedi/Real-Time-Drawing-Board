@@ -41,7 +41,7 @@ Create, share, and collaborate in real-time on drawings with this simple yet pow
    flask run
    ```
 
-   Open a browser and navigate to `http://127.0.0.1:5000/`.
+   Open a browser and navigate to ```http://127.0.0.1:5000/```.
 
 ## Acknowledgements 🙏
 
